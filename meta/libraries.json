@@ -1,0 +1,14 @@
+{
+    "key": "repr",
+    "name": "Repr",
+    "authors": [
+        "Peter Dimov"
+    ],
+    "maintainers": [
+        "Peter Dimov <pdimov -at- gmail.com>"
+    ],
+    "description": "A library for obtaining the string representation of a C++ object for logging and diagnostic purposes.",
+    "category": [
+        "Miscellaneous"
+    ]
+}
